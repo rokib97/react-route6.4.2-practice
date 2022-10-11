@@ -1,0 +1,8 @@
+.single-tshirt {
+  border: 1px solid lightblue;
+  border-radius: 10px;
+}
+.single-tshirt img {
+  height: 500px;
+  width: 350px;
+}
